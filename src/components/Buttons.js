@@ -2,7 +2,8 @@ const btnDiv = {
     display: 'flex',
     flexDirection: 'row',
     backgroundColor: '#282c34',
-    paddingBottom: '0.5rem'
+    paddingBottom: '0.5rem',
+    marginBottom: '0.5rem'
 }
 
 const btn = {
