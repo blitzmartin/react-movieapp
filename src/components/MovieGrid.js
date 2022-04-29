@@ -25,6 +25,7 @@ function MovieGrid() {
             {movies.map((item) => {
                 return (
                     <MovieTile
+                        key = {item._id}
                         movie = {item}
                     />
                 )
